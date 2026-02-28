@@ -5,8 +5,7 @@
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+ARIZAK-MD+WHATSAPP+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Arizak+tech;🚀+Next-Gen+ARIZAK-MD+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
-
-<a><img src='https://files.catbox.moe/1um7fs.jpg'/></a>
+<a href="https://ibb.co/rfwhBQPW"><img src="https://i.ibb.co/HpHycKvJ/1772268306300.png" alt="1772268306300" border="0" /></a>
 <p align="center">
   <p align="center">
   <a href="https://github.com/arizak-md"><img title="Author" src="https://img.shields.io/badge/👑_Developer-ARIZAK%20MD-8A2BE2?style=for-the-badge&logo=github" /></a>
